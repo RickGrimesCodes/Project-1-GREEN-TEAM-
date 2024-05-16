@@ -26,6 +26,8 @@ and presentation.
 
 Additionally, Nolan worked on the README and Suno worked on the Powerpoint presentation.
 
+## Findings
+
 
 
 
