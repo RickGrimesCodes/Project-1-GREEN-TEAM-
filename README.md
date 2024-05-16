@@ -10,6 +10,7 @@ We each ended up having to filter out other data to answer questions we had
 
 https://www.kaggle.com/datasets/kamilpytlak/personal-key-indicators-of-heart-disease?resource=download
 Author - Kamil Pytlak
+
 ## Splitting the workload and Questions we asked
 
 We decided to split the workload, by having each of us answer questions we had for this paticular dataset.
@@ -24,10 +25,24 @@ and presentation.
 
 * Is Covid-19 connected to heart disease? What are the effects? -- This was answered by Nolan
 
+Our code is split into four notebooks, in the folder 'jupyterCode' https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/jupyterCode
+
 Additionally, Nolan worked on the README and Suno worked on the Powerpoint presentation.
+Finally, it should be noted that we all helped one another when we had a roadblock
 
-## Findings
+## Directories
 
+This is the master visualazations folder -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/visualizations
+
+This is the master code folder           -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/jupyterCode
+
+This is the master dataset folder        -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/datasetDNM
+
+This is the 'cleaned data' folder, it's pointless, but I'm scared to delete it  -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/cleaned_Data
+
+## Conclusions
+
+This was an awesome project to do, and we all had a good time! Thanks for checking it out!
 
 
 
