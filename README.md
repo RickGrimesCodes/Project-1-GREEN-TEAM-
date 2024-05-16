@@ -46,5 +46,12 @@ This is the 'cleaned data' folder, it's pointless, but I'm scared to delete it  
 
 This was an awesome project to do, and we all had a good time! Thanks for checking it out!
 
+## Some visualization and table samples
 
+![CovidHeartSummaryTable](https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/assets/161536912/8364bcb5-eea1-43e8-968a-25e996119954)
 
+![E-Cigarette Usage Status of Participants With   Without Heart Disease](https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/assets/161536912/91239a14-3d73-4f53-8837-c0a0aab42f1b)
+
+![CovidOverallPie](https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/assets/161536912/b6370ab4-0eec-43c5-a4c7-424f4a7c59a9)
+
+![male_female_barchart](https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/assets/161536912/87ed5b8e-2aff-4b50-a307-0a8fc4d02819)
