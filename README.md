@@ -32,11 +32,13 @@ Finally, it should be noted that we all helped one another when we had a roadblo
 
 ## Directories
 
-This is the master visualazations folder -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/visualizations
+This is the master dataset folder        -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/datasetDNM
 
 This is the master code folder           -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/jupyterCode
 
-This is the master dataset folder        -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/datasetDNM
+This is the master visualazations folder -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/visualizations
+
+
 
 This is the 'cleaned data' folder, it's pointless, but I'm scared to delete it  -- https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/cleaned_Data
 
