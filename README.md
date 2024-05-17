@@ -27,7 +27,7 @@ and presentation.
 
 Our code is split into four notebooks, in the folder 'jupyterCode' https://github.com/RickGrimesCodes/Project-1-GREEN-TEAM-/tree/main/jupyterCode
 
-Additionally, Nolan worked on the README and Suno worked on the Powerpoint presentation.
+Additionally, Nolan worked on the README and Suno and Summer worked on the Powerpoint presentation.
 Finally, it should be noted that we all helped one another when we had a roadblock
 
 ## Directories
